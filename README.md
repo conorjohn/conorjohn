@@ -10,6 +10,7 @@ I'm a software developer, magician, footballer (GAA), nature and science enthusi
 - An Poitigéir: A Cocktail App/Blog that supports Irish and English, allows the user to sign-up, select the ingredients that they have and check out the drinks they can make. Not yet officially launched.
 
 🔭 I’m currently working on a simple cocktail app/website which is almost ready.
+
 🌱 I’m currently learning Blockchain as part of my day job.
 
 <!--
