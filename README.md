@@ -1,5 +1,5 @@
 # Conchubhar Ó Raghallaigh | Conor O'Reilly
-> Sé | É / He | Him 
+> Sé | É | He | Him 
 
 ## About me
 I'm a software developer, magician, footballer (GAA), nature and science enthusiast, cocktail fan, Irish speaker (labhair Gaeilge liom) and I try to create things that I would like to use or see out in the world.
